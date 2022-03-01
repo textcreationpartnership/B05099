@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for restoring of the summer session</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05099</idno>
+            <idno type="STC">Wing R509</idno>
+            <idno type="STC">ESTC R182425</idno>
+            <idno type="EEBO-CITATION">52614870</idno>
+            <idno type="OCLC">ocm 52614870</idno>
+            <idno type="VID">176056</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05099)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176056)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2760:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for restoring of the summer session</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>By the heirs of Andrew Anderson,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: print show-through with loss of text.</note>
+                  <note>Imprint from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Parliament --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:176056:1"/>
+            <pb n="1" facs="tcp:176056:1" rendition="simple:additions"/>
+            <head>REASONS For Reſtoring of the SUMMER SESSION.</head>
+            <p>WHatever Alterations have been in the Dyets of the Seſſion, yet theſe ſeveral hundreds of years ſince the Inſtitution of the Colledge of Juſtice, the wiſdom of His Sacred Majeſties Roy<g ref="char:EOLhyphen"/>al Anceſtors, and the prudence of our Parliaments, did at laſt ſettle into a Summer and a Winter Seſſion, as the fitteſt Seaſons (after they had Bal<g ref="char:EOLhyphen"/>lanced all inconveniencies) for eaſing the neceſſities, and accommodation of the Leidges; and which was excellently well Contrived, both for the Diſpatch of Buſineſs, and the conveniency of the People: It being evident from Experience, that as much Buſineſs can be Diſpatched in theſe two Months of the Summer Seſſion, as in the four Months of the Winter, the Dayes being long, and the Weather good, and ſo not expoſed to theſe Diſ<g ref="char:EOLhyphen"/>eaſes that are contracted by Mens attending their Buſineſs in the cold and rigid Nights of Winter; and theſe two Months of Summer are proper for the Inhabitants of the Iſles, and other remote Countreys, to come and get their Cauſes Diſcuſſed; whereas in Winter there is ſcarce any Travelling from theſe parts; or if they come, they are neceſſitat to ſtay the whole Winter: And there can be nothing more convenient for the People, theſe two Months of <hi>June</hi> and <hi>July</hi> being free from Labouring, as falling in be<g ref="char:EOLhyphen"/>twixt Seed and Harveſt-time; whereas the Month of <hi>March</hi> now Adjected to the Winter Seſſion, is a part of our Seed-time; and in reſpect of that inconveniency, the Lords were anciently diſcharged from ſitting in that Month: And we may juſtly have that reſpect for this ancient Practice, as to believe it hath been done upon juſt and rational Conſiderations; and old Laws and Cuſtoms are like Men, who have lived long, whoſe lon<g ref="char:EOLhyphen"/>gaevity preſumes them to have been of a ſound and wholſome Tempera<g ref="char:EOLhyphen"/>ment and Conſtitution; and <hi>Lex ſecunda digeſt. de conſtitutionibus princi<g ref="char:EOLhyphen"/>pum,</hi> ſayes excellently, That <hi>in novis rebus constituendis,</hi> the Utility muſt be very great and evident before we depart from what hath been long received as juſt and expedient, all Mutations being dangerous, the Sup<g ref="char:EOLhyphen"/>poſition and Proſpect of advantage by the change oft-times falling ſhort of expectation, as hath clearly fallen out in this caſe of ſuppreſſing the Summer Seſſion.</p>
+            <pb n="2" facs="tcp:176056:2"/>
+            <p n="2">2<hi rend="sup">o</hi>. The alteration of this Dyet of the Seſſion, by taking away the two Months in the Summer, hath occaſioned an unexpreſſible dammage to the Liedges, by want of Juſtice, more than the one half of the Year; There being no Kingdom nor State in the World, where there is ſo long a ſurceaſe of Ju<g ref="char:EOLhyphen"/>ſtice, <hi>England</hi> and other Nations finding the great advantage of keeping frequent Terms; neither is this inconvenient ſalved by the Inferior Courts, ſeing a ſtop is either put to their Procedure by Advocations, or to the Execution of their Sentences by Suſpenſions, ſo that this Proſpect of a long Vacation, forces Parties who ſtand in need of Money to Compone and give down of their juſt Claims, for a part to ſave their Credit.</p>
+            <p n="3">3<hi rend="sup">o</hi>. The taking away of the Summer Seſſion puts a ſtop to all Legal Diligence and Execution; As for inſtance, where a Creditor does Dili<g ref="char:EOLhyphen"/>gence upon a Decreet or Bond in the Month of <hi>March,</hi> or has then a Proceſs depending before an Inferiour Court; if the ſame be Advocated or Suſpended, they will not be gotten diſcuſſed for Ten Months thereafter: For when the Seſſion ſits down in <hi>November,</hi> a time muſt be allowed for Seeing, Returning and Inrolling the ſame; and when it comes in by the courſe of the Roll, if there be any difficulty, or ſome Points require Proba<g ref="char:EOLhyphen"/>tion, the Creditor will be delayed to another Seſſion, which is an unſpeak<g ref="char:EOLhyphen"/>able prejudice to the Leidges; for during that time, Widows and Orphans ſtarve, Debitors turn Bankrupt and Inſolvent, and Creditors are reduced to great Straits for want of their Money: And the Caſe is as clear in the matter of Removings, where a Tennent being warned before the <hi>Whit<g ref="char:EOLhyphen"/>ſunday,</hi> by Advocations and Suſpenſions, he poſſeſſes violently for a whole Year; and the hazard that ariſes to Adjudgers is unanſwerable, who are oft-times by the ſaid long Vacation of Seven Months, excluded from coming in within Year and Day of the firſt Adjudger, and ſo he loſes his Money: All which Prejudices and Inconveniencies were remeeded when the Seſſion did ſit theſe Two Months in the Summer time; And many more Inſtances of the like nature could be given to Evince the infinite Prejudices ariſing to the whole Kingdom through the want thereof.</p>
+            <p n="4">4<hi rend="sup">o</hi>. By taking away the Summer Seſſion, His Majeſties Authority du<g ref="char:EOLhyphen"/>ring the ſpace of Seven Months, wants the Support and Aſſiſtance which otherways it uſes to have from the frequent Attendance of the Nobility, Kings Officers, and others in the Seſſion time, becauſe of the conveniency they then have in managing their privat Buſineſs; whereas in this long Vacation of Seven Months they can hardly be brought together; and ſo want that Correſpondance, Intelligence, and mutual Aſſiſtance, which they have in time of the Seſſion; and Our Rebellions being ordinarily in the Summer time, becauſe of the conveniency which Rebels have of lying in the open Fields, and of getting Proviſion for their Horſes, it would be much eaſier to ſuppreſs the ſame when His Majeſties Authority is fully re<g ref="char:EOLhyphen"/>preſented, and His Nobility and Servants fully conveened; a great inſtance whereof appeared in the Rebellion of <hi>Bothwell</hi>-Bridge, and laſt Summer againſt the late Earl of <hi>Argile.</hi>
+            </p>
+            <p n="5">5<hi rend="sup">o</hi>. The want of the Summer Seſſion deſtroyes all Trade and Com<g ref="char:EOLhyphen"/>merce, for when Mercchants cannot get in their Money timeouſly by Le<g ref="char:EOLhyphen"/>gal Executions, this neceſſarily ruins their Credit, and makes ſo many Bankrupts: Neither is this deadneſs of Trade alone within <hi>Edinburgh,</hi> but throughout all the Nation; For where there are not Concourſe and Meetings of the People, there is neither occaſion for Bargains nor Com<g ref="char:EOLhyphen"/>merce; and the intercourſe of Money is wholly ſtopped by it; for the Affairs of this Kingdom do run ſo, that the Term of <hi>Whitſunday</hi> occaſion<g ref="char:EOLhyphen"/>ed
+<pb n="3" facs="tcp:176056:2"/>a reſort of Borrowers and Lenders to <hi>Edinburgh,</hi> which was ſo well accomodat for the eaſe of the Subjects, that they both managed their Law-buſineſs, and gave out and took in their Money at one and the ſame time; Whereas now ſince the removal of the Summer Seſſion, the practice of paying at <hi>Whitſunday</hi> is much diminiſhed.</p>
+            <p n="6">6<hi rend="sup">o</hi>. Corn being the great Staple-Commodity which <hi>Scotland</hi> yields, there is a moſt ſenſible decay both in the Conſumption and Price of Victu<g ref="char:EOLhyphen"/>al, ſince the taking away of the Summer Seſſion; Neither doth this only concern the Heretors, and the Inhabitants of the Shires near <hi>Edinburgh,</hi> whoſe Corn, young Beſtial, Poultry, and the other Product of their Ground uſed to be conſumed in theſe two Months of the Summer Seſſion; But like<g ref="char:EOLhyphen"/>wiſe the Victual belonging to the Nobility and Gentry in the North, muſt ly in their hands un-ſold, in regard it is not tranſportable till <hi>March</hi> or <hi>A<g ref="char:EOLhyphen"/>pril;</hi> becauſe of the Storms, and then there is no uſe for it at <hi>Edinburgh;</hi> Whereas formerly it was conſumed in the Summer Seſſion: So that it can be demonſtrated, that this alteration hath not only broken many Ten<g ref="char:EOLhyphen"/>nents, but made a Diminution in the Rents of many Heretors in <hi>Scotland.</hi>
+            </p>
+            <p n="7">7<hi rend="sup">o</hi>. The ſuppreſſing of the Summer Seſſion does inevitably occaſion a great Detriment to His Majeſties Revenue and Exciſe, both as to the two Merks upon the Boll of Bear, and by hindering the Conſumption of other Merchant Ware which uſed to go off in Summer, and for which Cuſtom was payable, and has proven a great Diſcouragement to thoſe who upon the Faith of the late Act of Parliament engaged in the Manufactories for Improvement of Our Native Product, the Summer Seſſion being the great occaſion of the Conſumpt of ſuch Commodities, and which has drawn on more Diſadvantage and Decay of Trade upon this Nation, then all the imaginary Good that was propoſed would follow upon the removal of the Summer Seſſion can Compenſe.</p>
+            <p n="8">8<hi rend="sup">o</hi>. As the want of the Summer Seſſion is a great Prejudice to the State, ſo it is no leſs prejudicial to the Church; for when there is no Summer Seſ<g ref="char:EOLhyphen"/>ſion, the Commiſſion for Plantation of Kirks does not then meet; ſo that Mi<g ref="char:EOLhyphen"/>niſters cannot get their Stipends augmented, nor the Biſhops who live at a diſtance cannot attend; and in that ſurceaſe of Juſtice for ſeven Moneths, Heretors do ſometimes ſuſpend their Miniſter, which cannot be got diſ<g ref="char:EOLhyphen"/>cuſſed till the Winter; and it is very hard that Miniſters who have no other way of Livelihood, ſhould want their Stipends for a whole Year.</p>
+            <p n="9">9<hi rend="sup">o</hi>. The Intereſt of the Town of <hi>Edinburgh</hi> in the reſtitution of the Summer Seſſion needs not to be inſiſted on; ſeing <hi>res ipſa loquitur:</hi> But they crave leave to Repreſent, That the want thereof is no ſmall Prejudice to the Gentry, who ſend in their Children, either to be bred in Callings, or to be educated in Schools and Colledges, and who for ſhunning the expence of two Families, did come and Reſide in the Town, whereby they at one and the ſame time, both got their Law Affairs followed, when there was a Summer Seſſion, and their Children Educated: and the pa<g ref="char:EOLhyphen"/>rallel uſed by <hi>Menenius Agrippa</hi> for reclaiming the Commons of <hi>Rome,</hi> (as is recorded by <hi>Livy,</hi>) is appoſite to this Caſe, That by what degrees the Belly is famiſhed, by the ſame meaſures of proportion the reſt of the Mem<g ref="char:EOLhyphen"/>bers of the Body will periſh and decay. <hi>Edinburgh</hi> as it is the <hi>Metropolis</hi> of the Kingdom, and the City of our Solemnities, ſo it is the <hi>communis patria</hi> of Scotſmen, and Center where Gentlemens younger Sons are bred in Merchandize and other Callings; ſo if it Flouriſh, the reſt by a kind<g ref="char:EOLhyphen"/>ly reciprocation participat therein.</p>
+            <pb n="4" facs="tcp:176056:3" rendition="simple:additions"/>
+            <p n="10">10. As to the Pretence that was made, that the taking away the Sum<g ref="char:EOLhyphen"/>mer Seſſion would cut off Pleas, and all Cauſes could be diſpatched in Five Months as well as when there was Two Months in Summer, the Books of Inrollment gives an evident demonſtration how much this hath failled, for there are moe Actions ſtanding in the Books of Inrollment for the Inner and Outer-Houſe yet uncalled, then could be diſcuſſed in Two Months: So that the only way to Obviat and Remeid all theſe Inconveniencies and Prejudices which the King, the Countrey, and the Church do ſo evidently Suſtain, is to Reſtore the Summer Seſſion, as it was formerly, according to the Old Inſtitution, and the inviolable Cuſtom introduced by Our Kings and Parliaments, upon ſuch grave and weighty Conſiderations; And there<g ref="char:EOLhyphen"/>fore it is hoped, the <hi>Lord Commiſſioner his Grace,</hi> and the Honourable States of Parliament, will Promot ſo good a Work, tending ſo eminently to the Advantage and Benefite of the whole Kingdom.</p>
+            <pb facs="tcp:176056:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
